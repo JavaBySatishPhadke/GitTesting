@@ -8,12 +8,14 @@ public class Addition {
 	}
 
 	public static void main(String[] args) {
+		
+		System.out.println("*******************************************");
 
 		Addition add = new Addition();
 
 		System.out.println("Mod OPERATION -  ADDITION ::" + add.sum(20, 30));
 		
-		System.out.println("Mode opertion need toe added");
+		System.out.println("Mode operation data need toe added");
 
 	}
 
