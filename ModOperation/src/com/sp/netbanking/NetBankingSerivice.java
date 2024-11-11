@@ -8,4 +8,9 @@ public class NetBankingSerivice {
 
 		return "account is open" + new Random().nextDouble(3475869L);
 	}
+	
+	
+	public String feedback(String msg) {
+		return "Thank you with Us !! ";
+	}
 }
